@@ -26,6 +26,4 @@ None.
 None.
 
 ## MISCELLANEOUS COMMENTS:
-I'm not sure if "variable you create that is assigned a value" includes the variables that came with the code, so I printed values and types for all of them.
-
-I'm also not sure if "in a single print statement" means I was only supposed to use one print statement in total, or one print statement per variable that I printed. I went with the latter.
+None.
