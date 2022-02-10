@@ -20,4 +20,4 @@ fruit = ["apple", "orange", "pear", "persimmon", "banana"]
 fruit_choice = random.choice(fruit)
 
 print()
-print(fruit_choice)
+print("Your fruit is", fruit_choice)
